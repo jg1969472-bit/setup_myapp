@@ -1,6 +1,7 @@
 import "package:flutter/material.dart";
 
 class MappColors{
+  MappColors._();
 
   // 1. BRAND (Same for both modes - identity)
   
